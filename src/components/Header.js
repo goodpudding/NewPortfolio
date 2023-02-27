@@ -75,7 +75,7 @@ class Header extends Component {
                     fontSize: 25,
                     textAlign: "end",
                     marginLeft: "20px",
-                    color: "#353239",
+                    color: "#3B425F",
                   }}
                 ></span>
               }
@@ -90,7 +90,7 @@ class Header extends Component {
                     fontSize: 25,
                     textAlign: "end",
                     marginLeft: "10px",
-                    color: "#353239",
+                    color: "#81A9C3",
                   }}
                 ></span>
               }

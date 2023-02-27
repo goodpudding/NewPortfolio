@@ -3,7 +3,7 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #BD3825;
    }
 
    .title-styles {
@@ -16,11 +16,11 @@ body[data-theme="dark"] {
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #BD3825;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #3B425F;
    }
 
    .link-href {
@@ -33,33 +33,34 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #3B425F;
       h1 {
          color: white;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #BD3825;
       h1 span {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #3B425F;
       }
       .card {
-         background: #6d6d6d;
+         background: #81A9C3;
          color: white;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #BD3825;
+      ;
       .section-title {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #81A9C3;
       }
       .project-title-settings {
          color: white;
@@ -68,18 +69,18 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #3B425F;
       .section-title {
          color: white !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #ed5f2d !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #bd3825 !important;
       }
 
       .vertical-timeline-element-date {
@@ -87,7 +88,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #ed5f2d !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
@@ -97,7 +98,7 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      background: #3b425f;
       color: white;
    }
 
