@@ -84,37 +84,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Codefellows",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML5, CSS3, JS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "REACT"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Army",
+        "title": "Sattelite Communications Specialist",
+        "years": "10.2012 - 11.2015",
         "mainTech": [
-          "Angular 7/8"
+          "Classified"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Classified",
+          "Classified",
+          "Classified",
+          "Classified",
+          "Classified"
         ]
       }
     ]
